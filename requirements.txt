@@ -9,3 +9,8 @@ uvicorn
 langchain-groq
 langchain-community
 sse_starlette
+ipykernel
+bs4
+pypdf
+chromadb
+faiss-cpu

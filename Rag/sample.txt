@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. It has various subfields such as machine learning, natural language processing, robotics, and computer vision.
+
+Machine learning (ML) is a subset of AI that enables systems to learn from data and improve over time without being explicitly programmed. Supervised, unsupervised, and reinforcement learning are the three main types of ML.
+
+Natural Language Processing (NLP) is the branch of AI that deals with the interaction between computers and humans through natural language. NLP enables machines to understand, interpret, and generate human language.
+
+One popular application of NLP is the chatbot, which can simulate conversation with users. These bots are commonly used in customer service, virtual assistants, and help desk systems.
+
+Another key technology in AI is computer vision, which allows machines to interpret and make decisions based on visual data such as images and videos. This is used in facial recognition, medical imaging, and autonomous vehicles.
+
+AI is transforming industries such as healthcare, finance, education, and transportation, offering both new opportunities and challenges.
